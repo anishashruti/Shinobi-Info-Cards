@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+    font-family: 'Cinzel', serif;
+    height:100%;
+}
+.app-container{
+    border:5px solid #ffff00;
+    background-color:black;
+    text-align:center;
+    border-radius: 20px;
+}
+
+h1{
+    font-size:50px;
+    text-align: center;
+    color: white;
+}

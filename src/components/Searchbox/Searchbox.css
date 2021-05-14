@@ -1,0 +1,19 @@
+.searchbox-container{
+    padding: 20px;
+    align-items: center;
+}
+.inp{
+    width:300px ;
+    min-width: 200px;
+    height: 50px;
+    border: none;
+    font-family: 'Cinzel', serif;
+    transition: width 0.4s ease-in-out;
+    background-color:#ffff00 ;
+    border-radius:12px;
+    border-bottom: 8px solid black;
+}
+
+.inp:focus{
+    width: 80%;
+}

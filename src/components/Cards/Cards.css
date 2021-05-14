@@ -1,0 +1,30 @@
+.card-container{
+    display: flex;
+    border: 3px solid black;
+    border-radius: 12px;
+    margin: 2%;
+    background-color: #ffff00;
+    align-content: space-between;
+    width:250px;
+    height: 300px;
+    transition:width 1s, height 1s;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    flex-grow: 1;
+    
+}
+.card-container:hover{
+    background-color:#ffff00b7 ;
+    width: 260px;
+    height:310px;
+}
+.shinobiImg{
+    width:145px;
+    height:250px;
+    transition:width 1s, height 1s;
+}
+.shinobiImg:hover{
+    width: 150px;
+    height:260px;
+}
