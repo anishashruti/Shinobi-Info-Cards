@@ -29,9 +29,11 @@ _**Learning outcomes:**_
 - **Deployment of React App**
 
 ### Overview of the project
-![welcome]()
-![serching]()
-![selecting]()
+![welcome](https://raw.githubusercontent.com/anishashruti/Shinobi-Info-Cards/main/welcome.PNG)
+### On searching for Sasuke
+![serching](https://raw.githubusercontent.com/anishashruti/Shinobi-Info-Cards/main/search.PNG)
+### On selecting a Shinobi(INO) to view their details
+![selecting](https://raw.githubusercontent.com/anishashruti/Shinobi-Info-Cards/main/pointing.PNG)
 
 ### Special Thanks
 - [Naruto Fandom](https://naruto.fandom.com) for providing all the information and images.
