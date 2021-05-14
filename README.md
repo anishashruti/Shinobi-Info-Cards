@@ -5,7 +5,7 @@
 ![Image of kabuto](https://raw.githubusercontent.com/anishashruti/Shinobi-Info-Cards/main/Ninja_Info_Cards.png)
 
 ## Deployed Project:
-https://anishashruti.github.io/Shinobi-Info-Cards/
+[NINJA INFO CARDS](https://anishashruti.github.io/Shinobi-Info-Cards/)
 
 #### What are Ninja info cards?
 Ninja Info Cards are a type of ninja tool where information can be burned on it by using chakra.Basically it contains all the information about a shinobi.
