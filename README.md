@@ -35,7 +35,7 @@ _**Learning outcomes:**_
 
 ### Special Thanks
 - [Naruto Fandom](https://naruto.fandom.com) for providing all the information and images.
-- @The Lean Programmer for the amazing React.JS tutorial🤩 from whome I learnt to make this project.
+- @The Lean Programmer for the amazing React.JS tutorial🤩 from whom I learnt to make this project.
 
 
 _**Personally I enjoyed making this peoject as it incorporates both my recent obsession(Naruto 💥) and learning(React Application 🤓) together**_
