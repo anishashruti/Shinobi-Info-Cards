@@ -2,7 +2,7 @@
 
 **The user of this application can search for a particular shinobi and get to know information like his/her:**
 
-![Image of kabuto]()
+![Image of kabuto](https://raw.githubusercontent.com/anishashruti/Shinobi-Info-Cards/main/Ninja_Info_Cards.png)
 
 ## Deployed Project:
 https://anishashruti.github.io/Shinobi-Info-Cards/
