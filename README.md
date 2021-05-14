@@ -1,7 +1,10 @@
 # NINSHIKI KADO/ NINJA INFO CARDS/ 忍識札
 
 **The user of this application can search for a particular shinobi and get to know information like his/her:**
-
+- Rank
+- clan
+- Special Jitsu
+- 
 ![Image of kabuto](https://raw.githubusercontent.com/anishashruti/Shinobi-Info-Cards/main/Ninja_Info_Cards.png)
 
 ## Deployed Project:
@@ -13,9 +16,6 @@ Ninja Info Cards are a type of ninja tool where information can be burned on it 
 ### Description
 Now setting apart the fictional inspiration of my project i just wanted to make a small frontend application that serves the similar purpose. 🤪
 
-- Rank
-- clan
-- Special Jitsu
 
 ### Things I learned from this Project :relaxed:
 
