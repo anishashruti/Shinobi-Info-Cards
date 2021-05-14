@@ -18,12 +18,11 @@ const Result = ({selectedshinobi}:SearchResultProps) => {
                             src={images?.second}
                         />
                         {/* img */}
-                        <p>Name:{ name }</p>
+                        <p>Name: { name }</p>
                         <p>Clan: {clan}</p>
-                        <p>Rank:{Rank}</p>
-                        <p>Special jitsu:{ Jitsu}</p>
+                        <p>Rank: {Rank}</p>
+                        <p>Special jitsu: { Jitsu}</p>
                         <p>Affiliation: {Affiliation}</p>
-                        <p>Missions completed:{ Missions}</p>
                     </div>
                 )
                     :
