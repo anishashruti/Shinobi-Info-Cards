@@ -142,7 +142,7 @@ export const data = [
     {
         "id": "15",
         "name":"Tsunade ",
-        "clan":"Uchiha Clan ",
+        "clan":"Senju Clan ",
         "Rank":"Kage",
         "Missions":"8-B Rank,1-A Rank",
         "Jitsu": "Transformation Technique,Yin Healing Wound Destruction ",
